@@ -1,0 +1,19 @@
+/* src/pages/CategoryAccessories.module.css */
+.cardImgTop {
+  object-fit: cover;
+  width: 100%;
+  height: 300px; /* Giới hạn chiều cao của ảnh để tất cả ảnh đều có chiều cao giống nhau */
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+.card-body {
+  flex-grow: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
