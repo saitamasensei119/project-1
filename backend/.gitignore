@@ -1,0 +1,20 @@
+# Node.js dependencies
+node_modules/
+
+# Log files
+logs/
+*.log
+
+# Temporary files
+temp/
+*.tmp
+
+# Environment files
+.env
+
+# MacOS system files
+.DS_Store
+
+# IDE/Editor directories
+.vscode/
+.idea/

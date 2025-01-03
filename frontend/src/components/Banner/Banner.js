@@ -10,7 +10,7 @@ function Banner() {
           Tìm kiếm sản phẩm bạn yêu thích với giá cả hợp lý và dịch vụ tuyệt
           vời.
         </p>
-        <Link to="/shop" className="btn btn-primary btn-lg">
+        <Link to="/categories" className="btn btn-primary btn-lg">
           Khám phá ngay
         </Link>
       </div>
